@@ -51,6 +51,7 @@ body::before {
 
 .navbar a {
     color: white !important;
+    z-index: 2;
 }
 
 .navbar-nav .nav-link {
