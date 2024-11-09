@@ -14,7 +14,7 @@ body::before {
     left: 50%;
     width: 75%;
     height: 75%;
-    background-image: url('/PROJEK2/images/logoathirah.png');
+    background-image: url('images/logoathirah.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
