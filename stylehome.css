@@ -47,11 +47,11 @@ body::before {
 
 .navbar {
     background-color: green;
+    z-index: 2;
 }
 
 .navbar a {
     color: white !important;
-    z-index: 2;
 }
 
 .navbar-nav .nav-link {
